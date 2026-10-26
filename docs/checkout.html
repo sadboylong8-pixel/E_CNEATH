@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Checkout — Lumière Skincare</title>
+<meta name="description" content="Enter your shipping and card details to complete your order.">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body data-base="" data-page="checkout">
+<div class="topbar">Free shipping over $50 &nbsp;·&nbsp; Use code <strong>GLOW10</strong> for 10% off your first order</div>
+<header class="site-header">
+  <div class="wrap header-in">
+    <a class="logo" href="index.html">Lumi<span>è</span>re</a>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="index.html#shop">Shop</a>
+      <a class="cart-link" href="cart.html">Cart <span class="badge" data-cart-count>0</span></a>
+    </nav>
+  </div>
+</header>
+<main>
+
+<div class="wrap">
+  <h1 class="page-title">Checkout</h1>
+  <div class="checkout">
+    <form id="checkout-form" novalidate>
+      <fieldset>
+        <legend>1. Contact &amp; shipping</legend>
+        <div class="row">
+          <label>Full name<input name="name" required autocomplete="name"></label>
+          <label>Email<input name="email" type="email" required autocomplete="email"></label>
+        </div>
+        <div class="row">
+          <label>Phone<input name="phone" required autocomplete="tel"></label>
+          <label>Country<input name="country" required value="Cambodia"></label>
+        </div>
+        <label>Address<input name="address" required autocomplete="street-address"></label>
+        <div class="row">
+          <label>City<input name="city" required></label>
+          <label>Postal code<input name="zip" required></label>
+        </div>
+      </fieldset>
+      <fieldset>
+        <legend>2. Payment (demo)</legend>
+        <p class="muted small">Demo only — nothing is charged or stored. Test card: <code>4242 4242 4242 4242</code>, any future expiry, any 3-digit CVV.</p>
+        <label>Name on card<input name="cardName" required autocomplete="cc-name"></label>
+        <label>Card number<input name="cardNumber" required inputmode="numeric" placeholder="1234 5678 9012 3456" maxlength="19" autocomplete="cc-number"></label>
+        <div class="row">
+          <label>Expiry (MM/YY)<input name="expiry" required placeholder="MM/YY" maxlength="5" autocomplete="cc-exp"></label>
+          <label>CVV<input name="cvv" required inputmode="numeric" maxlength="4" placeholder="123" autocomplete="cc-csc"></label>
+        </div>
+      </fieldset>
+      <p id="form-error" class="error" role="alert" hidden></p>
+      <button class="btn btn-lg btn-block" type="submit">Place order</button>
+    </form>
+    <aside class="summary" id="summary"><noscript>Please enable JavaScript.</noscript></aside>
+  </div>
+</div>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <p><strong>Lumière Skincare</strong> — gentle, effective skincare for every skin type.</p>
+    <p class="muted">Student demo project. No real payments are processed and no data leaves your browser.</p>
+  </div>
+</footer>
+<script src="assets/products.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
