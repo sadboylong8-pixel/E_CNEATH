@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,"image": "gel_cleanser.jpg", "slug": "dew-drop-gel-cleanser", "name": "Dew Drop Gel Cleanser", "category": "Cleanser",
+    "price": 14.00, "oldPrice": 18.00, "rating": 4.6, "reviews": 312, "size": "150 ml", "skinType": "Oily, Combination",
+    "badge": "Best Seller", "color": "#5fa8a0", "shape": "tube",
+    "short": "A light gel that lifts away oil and sunscreen without leaving skin tight.",
+    "description": "A pH-balanced gel cleanser that foams softly to remove makeup, sweat and excess sebum. Skin feels clean, fresh and comfortable, never stripped.",
+    "ingredients": ["Glycerin", "Green tea extract", "Panthenol (Vitamin B5)", "Centella asiatica"],
+    "howToUse": "Massage onto damp skin for 60 seconds, then rinse with lukewarm water. Use morning and evening."
+  },
+  {
+    "id": 2, "image": "oat_milk.jpg","slug": "oat-milk-cream-cleanser", "name": "Oat Milk Cream Cleanser", "category": "Cleanser",
+    "price": 16.00, "oldPrice": null, "rating": 4.7, "reviews": 198, "size": "150 ml", "skinType": "Dry, Sensitive",
+    "badge": "", "color": "#d9b98c", "shape": "bottle",
+    "short": "A creamy, soothing wash that cleanses while leaving a soft moisture veil.",
+    "description": "Colloidal oat and squalane cleanse gently and calm redness. A comforting first step for dry or reactive skin.",
+    "ingredients": ["Colloidal oatmeal", "Squalane", "Shea butter", "Allantoin"],
+    "howToUse": "Apply to dry or damp skin, massage in circles, then rinse or wipe off with a soft cloth."
+  },
+  {
+    "id": 3, "image": "rose_water.jpg", "slug": "rose-water-toner", "name": "Rose Water Balancing Toner", "category": "Toner",
+    "price": 15.00, "oldPrice": null, "rating": 4.4, "reviews": 156, "size": "200 ml", "skinType": "All skin types",
+    "badge": "", "color": "#e5a1b0", "shape": "bottle",
+    "short": "An alcohol-free toner that refreshes and preps skin for serums.",
+    "description": "Damask rose water and hyaluronic acid hydrate and rebalance skin after cleansing. Layer it for extra glow.",
+    "ingredients": ["Damask rose water", "Hyaluronic acid", "Witch hazel (alcohol-free)", "Aloe vera"],
+    "howToUse": "Pat onto clean skin with hands or a cotton pad. Follow with serum and moisturizer."
+  },
+  {
+    "id": 4, "image": "vitac.jpg", "slug": "vitamin-c-brightening-serum", "name": "Vitamin C Brightening Serum", "category": "Serum",
+    "price": 28.00, "oldPrice": 35.00, "rating": 4.8, "reviews": 524, "size": "30 ml", "skinType": "Dull, Uneven tone",
+    "badge": "Sale", "color": "#f0a73a", "shape": "dropper",
+    "short": "15% stabilized vitamin C to brighten dark spots and boost radiance.",
+    "description": "A lightweight antioxidant serum that visibly fades uneven tone and protects against daily environmental stress.",
+    "ingredients": ["15% L-ascorbic acid", "Vitamin E", "Ferulic acid", "Hyaluronic acid"],
+    "howToUse": "Apply 3-4 drops to clean skin in the morning, then finish with moisturizer and SPF."
+  },
+  {
+    "id": 5, "image": "h_serum.jpg", "slug": "hyaluronic-acid-serum", "name": "Hyaluronic Acid Hydration Serum", "category": "Serum",
+    "price": 24.00, "oldPrice": null, "rating": 4.7, "reviews": 441, "size": "30 ml", "skinType": "Dehydrated, All skin types",
+    "badge": "Best Seller", "color": "#6f9be0", "shape": "dropper",
+    "short": "Three weights of hyaluronic acid for deep, plump, lasting hydration.",
+    "description": "Multi-molecular hyaluronic acid draws water into every layer of skin for a bouncy, dewy finish without stickiness.",
+    "ingredients": ["Triple-weight hyaluronic acid", "Vitamin B5", "Beta-glucan", "Sodium PCA"],
+    "howToUse": "Apply to damp skin morning and night, then seal with a moisturizer."
+  },
+  {
+    "id": 6, "image": "n_serum.jpg", "slug": "niacinamide-10-serum", "name": "Niacinamide 10% Clarifying Serum", "category": "Serum",
+    "price": 19.00, "oldPrice": null, "rating": 4.5, "reviews": 367, "size": "30 ml", "skinType": "Oily, Acne-prone",
+    "badge": "", "color": "#8bb58a", "shape": "dropper",
+    "short": "Minimizes the look of pores and balances shine and blemishes.",
+    "description": "10% niacinamide with zinc helps regulate oil, refine texture and fade post-blemish marks over time.",
+    "ingredients": ["10% Niacinamide", "1% Zinc PCA", "Panthenol", "Allantoin"],
+    "howToUse": "Apply a few drops to the whole face morning or night, before moisturizer."
+  },
+  {
+    "id": 7, "image": "moi.jpg","slug": "ceramide-barrier-moisturizer", "name": "Ceramide Barrier Moisturizer", "category": "Moisturizer",
+    "price": 26.00, "oldPrice": null, "rating": 4.9, "reviews": 603, "size": "50 ml", "skinType": "Dry, Sensitive",
+    "badge": "Top Rated", "color": "#c9a7d8", "shape": "jar",
+    "short": "A rich cushiony cream that repairs and protects the skin barrier.",
+    "description": "Three essential ceramides plus cholesterol and fatty acids rebuild the barrier and lock in moisture for 48 hours.",
+    "ingredients": ["Ceramide NP, AP, EOP", "Cholesterol", "Squalane", "Peptides"],
+    "howToUse": "Smooth over face and neck as the last step of your routine, morning and night."
+  },
+  {
+    "id": 8, "image": "green_tea.jpg", "slug": "green-tea-gel-cream", "name": "Green Tea Water Gel Cream", "category": "Moisturizer",
+    "price": 22.00, "oldPrice": 27.00, "rating": 4.5, "reviews": 289, "size": "50 ml", "skinType": "Oily, Combination",
+    "badge": "Sale", "color": "#7fbf8e", "shape": "jar",
+    "short": "An oil-free, bouncy gel that hydrates and soothes without heaviness.",
+    "description": "Antioxidant-rich green tea and aloe deliver weightless moisture, ideal for humid weather and oily skin.",
+    "ingredients": ["Green tea extract", "Aloe vera", "Hyaluronic acid", "Cica"],
+    "howToUse": "Apply an almond-sized amount to face and neck after serum."
+  },
+  {
+    "id": 9, "image": "sunscreen.jpg", "slug": "mineral-sunscreen-spf50", "name": "Daily Mineral Sunscreen SPF 50", "category": "Sunscreen",
+    "price": 21.00, "oldPrice": null, "rating": 4.6, "reviews": 478, "size": "50 ml", "skinType": "All skin types",
+    "badge": "Must Have", "color": "#f2c94c", "shape": "tube",
+    "short": "Broad-spectrum zinc oxide protection with no white cast.",
+    "description": "A sheer, fragrance-free mineral SPF 50 PA++++ that wears comfortably under makeup and is reef-friendly.",
+    "ingredients": ["Zinc oxide", "Vitamin E", "Niacinamide", "Squalane"],
+    "howToUse": "Apply generously as the final morning step and reapply every 2 hours in direct sun."
+  },
+  {
+    "id": 10, "image": "night_cream.jpg","slug": "overnight-retinol-night-cream", "name": "Overnight Retinol Night Cream", "category": "Treatment",
+    "price": 32.00, "oldPrice": 40.00, "rating": 4.7, "reviews": 255, "size": "50 ml", "skinType": "Mature, Textured",
+    "badge": "Sale", "color": "#7b6fb0", "shape": "jar",
+    "short": "Encapsulated retinol that smooths fine lines while you sleep.",
+    "description": "Time-released 0.3% retinol with peptides and ceramides refines texture and firmness with minimal irritation.",
+    "ingredients": ["0.3% Encapsulated retinol", "Peptides", "Ceramides", "Bakuchiol"],
+    "howToUse": "Use 2-3 nights a week at first, then increase gradually. Always wear SPF the next day."
+  }
+]

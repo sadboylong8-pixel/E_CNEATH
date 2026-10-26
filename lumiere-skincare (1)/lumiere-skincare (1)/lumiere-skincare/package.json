@@ -1,0 +1,7 @@
+{
+  "name": "lumiere-skincare",
+  "version": "1.0.0",
+  "description": "SSG skincare e-commerce front end (catalog, detail, cart, checkout, invoice)",
+  "scripts": { "build": "node build.js" },
+  "license": "MIT"
+}
